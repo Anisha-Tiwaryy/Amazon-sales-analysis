@@ -1,13 +1,13 @@
-Amazon Sales Analysis with SQL:
+#Amazon Sales Analysis with SQL:
 Welcome to this Amazon sales analytics project. The work explores transactional data to surface trends that inform sales strategy, reveal customer behavior, and improve day‑to‑day business operations.
 
-Introduction:
+#Introduction:
 The analysis uses a dataset of Amazon sales records containing order dates, customer details, product hierarchies, and financial metrics. Using SQL and analytical techniques, the project answers key business questions and extracts practical insights.
 
-Dataset Overview:
+#Dataset Overview:
 The dataset contains [insert number] rows representing individual Amazon transactions, along with related information on customers, products, orders, and returns. Prior to analysis, the data was cleaned to address missing values and ensure overall quality.
 
-Questions Answered:
+#Questions Answered:
 1.Identify the top five customers generating the highest total profit.
 2.Compute the average quantity ordered within each product category.
 3.Find the five products with the greatest total revenue.
@@ -19,8 +19,9 @@ Questions Answered:
 9.Measure each sub-category’s percentage contribution.
 10.Find the top two categories with the most returns and report their return percentages.
 
-Entity-Relationship Diagram (ERD):
+#Entity-Relationship Diagram (ERD):
 An ERD is provided to illustrate how the tables relate, clarifying the core entities and their attributes and helping guide query design and analysis.
 
+#
 Conclusion:
 This project delivers insights into Amazon sales dynamics, customer patterns, and operational drivers. By addressing targeted questions with SQL, it supports data‑driven decision‑making and sales optimization. Contributions and enhancements are welcome.

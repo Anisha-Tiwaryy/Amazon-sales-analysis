@@ -1,0 +1,5 @@
+territory,accounts,active_accounts_180d,revenue,margin_pct,avg_order_value,heavy_discount_lines_pct,return_pct,revenue_last_12m,revenue_prior_12m
+West,270,159,1258835.0,10.0,740.0,6.4,8.5,408764.0,426437.0
+East,234,141,1065900.0,8.0,705.0,6.3,7.5,384336.0,334563.0
+Central,187,110,903083.0,7.5,753.0,10.6,7.3,299405.0,262842.0
+South,102,60,562984.0,8.7,673.0,7.7,6.5,146439.0,158631.0

@@ -1,0 +1,18 @@
+DATA QUALITY REPORT
+===================
+Raw rows: 10024
+
+- Exact duplicate rows removed: 30
+- Ship date before order date (swapped back): 12
+- Negative sales values (sign corrected): 6
+- Profit larger than sales (x100 unit error corrected): 4
+- Missing Customer Name (filled from the same customer's other orders): 8
+- Missing Postal Code (filled from the same customer's other orders): 15
+
+Clean rows: 9994
+Orders: 5251
+Customers: 793
+Products: 1640
+States: 49
+Date range: 2014-01-01 to 2017-12-30
+Returned orders: 401

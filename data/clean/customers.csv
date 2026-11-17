@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,city,state,postal_code,region
+AA-16075,Alan Adams,Consumer,Virginia City,Virginia,71132,South
+AA-16765,Anna Adams,Consumer,Philadelphia,Pennsylvania,13506,East
+AB-10840,Anna Brooks,Home Office,San Diego,California,73554,West
+AB-13285,Aaron Brooks,Corporate,Columbus,Ohio,33269,East
+AB-14620,Andrew Baker,Consumer,Nevada City,Nevada,43888,West
+AB-15550,Aaron Baker,Corporate,Los Angeles,California,60609,West
+AB-21700,Amy Baker,Consumer,Michigan City,Michigan,24761,Central
+AB-21850,Alan Brooks,Corporate,New York City,New York,22455,East
+AC-10105,Anna Carter,Consumer,New Mexico City,New Mexico,60328,West
+AC-10225,Alice Carter,Consumer,New Jersey City,New Jersey,70400,East
+AC-11200,Alan Carter,Consumer,Los Angeles,California,23819,West
+AC-13540,Alan Cook,Consumer,Jacksonville,Florida,64190,South
+AC-18685,Amy Collins,Consumer,Delaware City,Delaware,55894,East
+AC-18970,Adam Cook,Corporate,Sacramento,California,41056,West
+AC-19255,Aaron Collins,Corporate,Los Angeles,California,57397,West
+AC-19675,Alice Collins,Consumer,Pittsburgh,Pennsylvania,54473,East
+AC-20530,Adam Carter,Corporate,Virginia City,Virginia,28906,South
+AC-21775,Alan Collins,Home Office,North Carolina City,North Carolina,23475,South
+AD-12910,Amy Davis,Home Office,Missouri City,Missouri,49238,Central
+AE-18370,Alan Evans,Consumer,Miami,Florida,18129,South
+AF-11875,Adam Fisher,Consumer,San Francisco,California,28628,West
+AF-14695,Alice Foster,Corporate,San Antonio,Texas,78394,Central
+AF-15325,Amy Fisher,Corporate,Wisconsin City,Wisconsin,68073,Central
+AF-16150,Andrew Foster,Consumer,Los Angeles,California,77012,West
+AF-20725,Andrew Fisher,Home Office,North Carolina City,North Carolina,76037,South
+AG-10255,Anna Gray,Corporate,Connecticut City,Connecticut,75725,East
+AG-15070,Aaron Garcia,Consumer,Indiana City,Indiana,50602,Central
+AG-19315,Alice Gray,Corporate,Philadelphia,Pennsylvania,34619,East
+AG-19420,Amy Gray,Corporate,Louisiana City,Louisiana,34665,South
+AG-19600,Adam Gray,Corporate,Buffalo,New York,80666,East
+AG-20140,Adam Garcia,Corporate,Spokane,Washington,98528,West
+AG-21310,Aaron Gray,Consumer,Cleveland,Ohio,35772,East
+AH-11635,Alice Harris,Consumer,Kentucky City,Kentucky,49633,South
+AH-13225,Andrew Hill,Consumer,Arizona City,Arizona,18809,West
+AH-13675,Andrew Hall,Home Office,Philadelphia,Pennsylvania,13224,East
+AH-14380,Aaron Harris,Corporate,Arizona City,Arizona,38840,West
+AH-15505,Amy Hall,Corporate,Los Angeles,California,85022,West
+AH-15715,Andrew Hughes,Home Office,Houston,Texas,83160,Central
+AH-16885,Anna Hill,Corporate,Spokane,Washington,91836,West
+AH-17200,Amy Hill,Consumer,Chicago,Illinois,24287,Central
+AH-18190,Amy Hughes,Home Office,Seattle,Washington,81532,West
+AJ-11020,Alan Jackson,Consumer,Sacramento,California,19170,West
+AJ-13750,Andrew Jackson,Corporate,Buffalo,New York,36262,East
+AJ-20500,Amy Jackson,Corporate,San Antonio,Texas,65093,Central
+AK-10885,Alan King,Consumer,Pittsburgh,Pennsylvania,23560,East
+AK-12625,Anna King,Home Office,Dallas,Texas,28137,Central
+AK-17380,Amy Kelly,Consumer,Michigan City,Michigan,77402,Central
+AK-17935,Andrew King,Home Office,Delaware City,Delaware,78330,East
+AK-18295,Alice Kelly,Consumer,Colorado City,Colorado,91567,West
+AK-19555,Aaron Kelly,Corporate,Los Angeles,California,91880,West
+AK-21115,Aaron King,Consumer,Michigan City,Michigan,33643,Central
+AL-11395,Alice Lee,Consumer,Oregon City,Oregon,10772,West
+AL-12235,Andrew Lewis,Consumer,Pittsburgh,Pennsylvania,47958,East
+AL-15220,Aaron Lewis,Consumer,Kansas City,Kansas,26190,Central
+AL-20380,Alice Lewis,Home Office,Indiana City,Indiana,65349,Central
+AM-11215,Anna Miller,Corporate,San Diego,California,99565,West
+AM-12745,Amy Martin,Consumer,San Francisco,California,22964,West
+AM-14065,Andrew Morgan,Consumer,San Francisco,California,85995,West
+AM-15130,Adam Moore,Corporate,Philadelphia,Pennsylvania,82893,East
+AM-18550,Adam Morgan,Home Office,San Francisco,California,61052,West
+AM-18715,Anna Martin,Home Office,Sacramento,California,21553,West
+AM-18805,Alice Martin,Consumer,Seattle,Washington,13100,West
+AM-19330,Alan Moore,Corporate,Miami,Florida,32456,South
+AM-19480,Adam Miller,Consumer,Dallas,Texas,64574,Central
+AM-20410,Alan Miller,Corporate,Sacramento,California,90786,West
+AM-20815,Anna Morgan,Consumer,San Diego,California,98553,West
+AM-21865,Aaron Moore,Home Office,New York City,New York,17514,East
+AN-10750,Alan Nelson,Corporate,Michigan City,Michigan,51269,Central
+AP-12190,Alan Price,Corporate,Spokane,Washington,87670,West
+AP-12655,Alan Parker,Corporate,Jacksonville,Florida,67461,South
+AP-13525,Anna Price,Consumer,Austin,Texas,33698,Central
+AP-13930,Aaron Price,Home Office,North Dakota City,North Dakota,25959,Central
+AP-14440,Andrew Patel,Consumer,San Diego,California,78233,West
+AP-14830,Adam Parker,Consumer,New York City,New York,18115,East
+AP-16300,Aaron Parker,Consumer,Cleveland,Ohio,81822,East
+AP-19690,Amy Parker,Corporate,Dallas,Texas,85524,Central
+AR-11770,Alice Ross,Consumer,Sacramento,California,15864,West
+AR-13390,Amy Roberts,Corporate,Miami,Florida,66604,South
+AR-14335,Alice Roberts,Consumer,Austin,Texas,76400,Central
+AR-19585,Anna Ross,Consumer,San Diego,California,36968,West
+AR-19960,Anna Roberts,Consumer,Wyoming City,Wyoming,72619,West
+AR-20560,Alan Ross,Home Office,New York City,New York,83575,East
+AS-10000,Amy Shaw,Home Office,San Diego,California,49498,West
+AS-11155,Alice Shaw,Consumer,Houston,Texas,97941,Central
+AS-11530,Alice Scott,Consumer,Indiana City,Indiana,28957,Central
+AS-12445,Aaron Scott,Corporate,New York City,New York,24061,East
+AS-14740,Adam Scott,Corporate,Houston,Texas,22510,Central
+AS-15175,Aaron Smith,Home Office,Nevada City,Nevada,23899,West
+AS-17950,Adam Stewart,Corporate,New York City,New York,55085,East
+AS-18565,Andrew Smith,Consumer,Colorado City,Colorado,88191,West
+AS-21220,Amy Scott,Consumer,Colorado City,Colorado,92440,West
+AT-13345,Andrew Turner,Consumer,Colorado City,Colorado,58345,West
+AT-18160,Alice Taylor,Consumer,Houston,Texas,19713,Central
+AT-20035,Anna Turner,Consumer,Springfield,Illinois,33892,Central
+AT-21640,Aaron Taylor,Consumer,Sacramento,California,57609,West
+AW-10585,Andrew Ward,Consumer,Virginia City,Virginia,81931,South
+AW-12490,Adam White,Home Office,Rochester,New York,30221,East
+AW-12760,Andrew Wood,Consumer,Georgia City,Georgia,23885,South
+AW-13705,Andrew Walker,Consumer,Rochester,New York,96975,East
+AW-15625,Alan Wood,Corporate,Columbus,Ohio,75907,East
+AW-16330,Alice White,Consumer,Georgia City,Georgia,19159,South
+AW-18130,Alice Ward,Consumer,San Antonio,Texas,23532,Central
+AW-18700,Alice Wood,Corporate,San Diego,California,58652,West
+AY-11260,Anna Young,Home Office,Sacramento,California,11492,West
+AY-12790,Aaron Young,Home Office,Columbus,Ohio,67511,East
+AY-16660,Adam Young,Corporate,Sacramento,California,92956,West
+AY-17695,Alan Young,Consumer,Colorado City,Colorado,96182,West
+AY-20710,Andrew Young,Corporate,Iowa City,Iowa,93603,Central
+BB-13600,Ben Brooks,Consumer,North Carolina City,North Carolina,18845,South
+BB-21100,Brian Baker,Corporate,Massachusetts City,Massachusetts,57541,East
+BC-10570,Ben Carter,Corporate,Jacksonville,Florida,14513,South
+BC-17065,Ben Collins,Corporate,Arizona City,Arizona,89758,West
+BE-12475,Ben Evans,Consumer,San Francisco,California,51744,West
+BF-21595,Brian Foster,Corporate,Massachusetts City,Massachusetts,49655,East
+BL-19000,Brian Lee,Corporate,Pittsburgh,Pennsylvania,83795,East
+BM-10450,Brian Martin,Consumer,Minnesota City,Minnesota,71263,Central
+BM-21625,Ben Miller,Consumer,Georgia City,Georgia,83678,South
+BP-10375,Brian Parker,Consumer,Austin,Texas,19530,Central
+BP-19045,Ben Patel,Consumer,Houston,Texas,43296,Central
+BR-12130,Ben Roberts,Home Office,Iowa City,Iowa,65719,Central
+BR-12955,Ben Ross,Consumer,Rochester,New York,25732,East
+BR-16645,Brian Ross,Corporate,Michigan City,Michigan,45722,Central
+BR-18850,Ben Reed,Consumer,Rochester,New York,15968,East
+BS-11515,Ben Stewart,Consumer,Chicago,Illinois,52187,Central
+BS-17920,Brian Smith,Consumer,Sacramento,California,56653,West
+BT-14635,Brian Taylor,Corporate,San Francisco,California,10074,West
+BT-20395,Ben Turner,Corporate,Buffalo,New York,14259,East
+BW-12520,Brian White,Home Office,Springfield,Illinois,49709,Central
+BW-19285,Ben Ward,Consumer,Philadelphia,Pennsylvania,63399,East
+CB-13195,Claire Baker,Home Office,Michigan City,Michigan,79653,Central
+CB-20650,Claire Brooks,Corporate,Los Angeles,California,81067,West
+CC-10360,Claire Carter,Consumer,West Virginia City,West Virginia,45781,East
+CC-12850,Carol Clark,Consumer,District of Columbia City,District of Columbia,23985,East
+CC-14275,Chris Cook,Corporate,Kentucky City,Kentucky,68090,South
+CC-17980,Carol Cook,Corporate,San Diego,California,17871,West
+CC-18895,Claire Clark,Consumer,Pittsburgh,Pennsylvania,13882,East
+CC-20635,Carol Carter,Consumer,Massachusetts City,Massachusetts,84050,East
+CD-10285,Chris Davis,Consumer,Rhode Island City,Rhode Island,36891,East
+CE-19075,Claire Evans,Home Office,Cleveland,Ohio,34192,East
+CG-11275,Chris Gray,Consumer,San Francisco,California,63510,West
+CG-13240,Chris Garcia,Consumer,Virginia City,Virginia,78126,South
+CG-13990,Carol Garcia,Consumer,Columbus,Ohio,95377,East
+CH-10150,Carol Hughes,Consumer,Wyoming City,Wyoming,71532,West
+CH-10210,Carol Hall,Corporate,Massachusetts City,Massachusetts,93259,East
+CH-13480,Claire Hall,Corporate,New York City,New York,28945,East
+CH-16165,Claire Harris,Corporate,Kentucky City,Kentucky,16405,South
+CK-10810,Claire Kelly,Consumer,San Antonio,Texas,42458,Central
+CK-14575,Chris King,Consumer,Georgia City,Georgia,26802,South
+CM-11710,Chris Morgan,Home Office,Arizona City,Arizona,81165,West
+CN-13165,Carol Nelson,Consumer,San Francisco,California,78350,West
+CP-14350,Carol Price,Consumer,New York City,New York,58475,East
+CP-14560,Claire Parker,Home Office,San Francisco,California,29926,West
+CP-15310,Claire Price,Consumer,Houston,Texas,27078,Central
+CP-15445,Carol Patel,Consumer,Cleveland,Ohio,86592,East
+CP-15925,Chris Price,Consumer,Massachusetts City,Massachusetts,68923,East
+CR-12925,Claire Roberts,Home Office,Virginia City,Virginia,97317,South
+CR-17740,Carol Reed,Corporate,Jacksonville,Florida,86411,South
+CR-17845,Chris Reed,Consumer,Pittsburgh,Pennsylvania,21457,East
+CR-20980,Chris Roberts,Consumer,North Dakota City,North Dakota,39114,Central
+CT-12970,Claire Taylor,Home Office,Spokane,Washington,65678,West
+CT-15775,Claire Turner,Home Office,Spokane,Washington,18201,West
+CW-13420,Chris Wood,Consumer,San Antonio,Texas,64946,Central
+CW-17275,Claire Wood,Consumer,San Diego,California,87118,West
+CW-20800,Chris White,Corporate,South Carolina City,South Carolina,18064,South
+CY-13555,Carol Young,Consumer,San Francisco,California,77325,West
+CY-15790,Claire Young,Consumer,Georgia City,Georgia,15260,South
+DA-21235,Dan Adams,Consumer,San Diego,California,87445,West
+DB-15580,Dan Brooks,Consumer,New York City,New York,45122,East
+DB-15685,Dan Baker,Home Office,Mississippi City,Mississippi,84738,South
+DB-19390,Diana Brooks,Corporate,Maryland City,Maryland,78430,East
+DC-17875,Diana Clark,Consumer,Iowa City,Iowa,14145,Central
+DF-10465,Dan Foster,Corporate,Missouri City,Missouri,95394,Central
+DF-15280,David Foster,Corporate,San Francisco,California,30319,West
+DG-17260,Dan Garcia,Consumer,Sacramento,California,68834,West
+DH-10825,David Hall,Consumer,Kansas City,Kansas,13749,Central
+DH-11830,Dan Hughes,Consumer,San Diego,California,93785,West
+DH-13105,Diana Harris,Consumer,Kentucky City,Kentucky,57764,South
+DH-13180,David Hill,Consumer,San Francisco,California,30335,West
+DH-13270,Diana Hall,Home Office,Oregon City,Oregon,62574,West
+DH-14125,Dan Hill,Corporate,Spokane,Washington,72268,West
+DH-18055,Diana Hughes,Home Office,San Francisco,California,25721,West
+DK-19345,Diana Kelly,Corporate,Seattle,Washington,41290,West
+DK-21130,David Kelly,Consumer,Jacksonville,Florida,60823,South
+DL-13915,David Lee,Consumer,Seattle,Washington,84063,West
+DM-11725,David Martin,Home Office,Austin,Texas,68741,Central
+DM-16495,David Moore,Consumer,Philadelphia,Pennsylvania,54485,East
+DM-18220,Dan Martin,Consumer,Virginia City,Virginia,98887,South
+DM-20350,Diana Miller,Consumer,Chicago,Illinois,68452,Central
+DN-12580,David Nelson,Consumer,Austin,Texas,84662,Central
+DN-18880,Diana Nelson,Consumer,Dallas,Texas,79596,Central
+DP-10765,Diana Patel,Consumer,Georgia City,Georgia,51548,South
+DR-20860,Dan Reed,Home Office,New York City,New York,65274,East
+DS-20125,David Stewart,Consumer,Rochester,New York,57109,East
+DT-14470,David Taylor,Consumer,Maine City,Maine,87370,East
+DT-16570,Dan Taylor,Consumer,Michigan City,Michigan,70581,Central
+DW-14110,Dan Walker,Consumer,Los Angeles,California,77867,West
+DW-15655,Dan White,Consumer,New York City,New York,60741,East
+DW-19015,Dan Wood,Consumer,San Diego,California,25072,West
+DY-12805,David Young,Home Office,Alabama City,Alabama,62364,South
+DY-14140,Dan Young,Corporate,North Dakota City,North Dakota,57500,Central
+EB-15385,Eric Brooks,Consumer,San Diego,California,75488,West
+EB-16240,Emily Baker,Consumer,South Carolina City,South Carolina,78123,South
+EC-18790,Eric Collins,Consumer,San Antonio,Texas,89995,Central
+EC-21715,Emily Cook,Consumer,Sacramento,California,29809,West
+EE-13885,Eric Evans,Home Office,Miami,Florida,84075,South
+EF-15340,Emily Foster,Home Office,Seattle,Washington,78645,West
+EG-11170,Eric Gray,Consumer,Buffalo,New York,59603,East
+EG-15610,Emily Gray,Consumer,Rochester,New York,71702,East
+EG-15865,Eric Garcia,Consumer,Los Angeles,California,93678,West
+EH-12265,Eric Hill,Home Office,Austin,Texas,70466,Central
+EH-18865,Emily Harris,Consumer,Seattle,Washington,96119,West
+EH-20185,Eric Hall,Corporate,Sacramento,California,37612,West
+EK-15100,Emily King,Corporate,Houston,Texas,85448,Central
+EK-17755,Eric Kelly,Corporate,Austin,Texas,80142,Central
+EK-20050,Eric King,Corporate,San Francisco,California,30488,West
+EL-11485,Emily Lewis,Consumer,Columbus,Ohio,58290,East
+EL-17545,Eric Lee,Consumer,San Diego,California,11774,West
+EM-17350,Emily Martin,Consumer,Houston,Texas,42173,Central
+EM-18100,Emily Morgan,Corporate,Sacramento,California,61285,West
+EM-21580,Eric Moore,Corporate,Austin,Texas,45390,Central
+EP-10030,Emily Parker,Corporate,Oregon City,Oregon,73046,West
+EP-15355,Eric Price,Consumer,Sacramento,California,92275,West
+ER-16285,Eric Reed,Home Office,Philadelphia,Pennsylvania,74246,East
+ER-20305,Emily Roberts,Corporate,San Diego,California,47981,West
+ET-14980,Emily Taylor,Corporate,Los Angeles,California,53034,West
+ET-18430,Eric Taylor,Consumer,Chicago,Illinois,25658,Central
+EW-13060,Emily Ward,Consumer,Kentucky City,Kentucky,42980,South
+EW-14245,Eric Ward,Consumer,Sacramento,California,65930,West
+EW-15535,Emily White,Home Office,Seattle,Washington,57232,West
+EW-19435,Emily Walker,Consumer,Seattle,Washington,93068,West
+EY-17680,Emily Young,Consumer,Seattle,Washington,33605,West
+EY-21790,Eric Young,Consumer,Buffalo,New York,85895,East
+FC-14860,Frank Carter,Home Office,North Carolina City,North Carolina,57771,South
+FC-21820,Frank Cook,Corporate,Georgia City,Georgia,24656,South
+FE-21325,Frank Evans,Corporate,Spokane,Washington,85742,West
+FG-17245,Frank Garcia,Corporate,Rochester,New York,38640,East
+FH-17965,Frank Hall,Consumer,San Francisco,California,86416,West
+FJ-17560,Frank Jackson,Consumer,Philadelphia,Pennsylvania,43759,East
+FK-10660,Frank King,Consumer,Alabama City,Alabama,56399,South
+FM-17440,Frank Martin,Consumer,Utah City,Utah,97891,West
+FM-19240,Frank Miller,Consumer,Sacramento,California,19604,West
+FN-20320,Frank Nelson,Corporate,New Jersey City,New Jersey,12619,East
+FP-17305,Frank Parker,Consumer,San Francisco,California,90614,West
+FR-18520,Frank Ross,Home Office,Sacramento,California,86338,West
+FS-14800,Frank Stewart,Consumer,Seattle,Washington,98062,West
+FS-16585,Frank Scott,Home Office,Cleveland,Ohio,97709,East
+FT-20755,Frank Taylor,Consumer,Houston,Texas,25584,Central
+FW-16000,Frank Walker,Corporate,Sacramento,California,74079,West
+FW-21280,Frank White,Home Office,Oregon City,Oregon,38579,West
+FY-20080,Frank Young,Consumer,Vermont City,Vermont,66627,East
+GA-13840,Greg Adams,Consumer,Pittsburgh,Pennsylvania,40091,East
+GB-13375,Greg Brooks,Home Office,Rochester,New York,72847,East
+GC-10540,Grace Carter,Corporate,South Dakota City,South Dakota,35933,Central
+GC-19465,Greg Clark,Consumer,Georgia City,Georgia,20631,South
+GD-15295,Greg Davis,Corporate,New York City,New York,96784,East
+GE-14920,Grace Evans,Corporate,Buffalo,New York,94142,East
+GF-10060,Grace Fisher,Corporate,Colorado City,Colorado,94626,West
+GF-18925,Greg Fisher,Consumer,Austin,Texas,97491,Central
+GF-19450,Greg Foster,Consumer,Kansas City,Kansas,82264,Central
+GG-11890,Greg Garcia,Consumer,West Virginia City,West Virginia,82100,East
+GH-19090,Grace Hall,Consumer,Austin,Texas,49108,Central
+GH-19525,Greg Hughes,Consumer,Chicago,Illinois,64820,Central
+GJ-13360,Grace Jackson,Corporate,Rochester,New York,58050,East
+GK-17080,Greg King,Corporate,Spokane,Washington,72628,West
+GK-17620,Greg Kelly,Corporate,Buffalo,New York,27459,East
+GK-19705,Grace Kelly,Consumer,New York City,New York,13111,East
+GL-16855,Greg Lee,Corporate,Spokane,Washington,49208,West
+GM-10495,Grace Martin,Home Office,Iowa City,Iowa,85032,Central
+GM-12865,Grace Moore,Corporate,Sacramento,California,28250,West
+GM-17725,Greg Morgan,Consumer,Springfield,Illinois,50231,Central
+GN-13255,Grace Nelson,Home Office,Buffalo,New York,96853,East
+GN-16465,Greg Nelson,Consumer,Buffalo,New York,26806,East
+GP-14200,Greg Patel,Consumer,Dallas,Texas,34342,Central
+GP-21730,Greg Price,Consumer,Massachusetts City,Massachusetts,45235,East
+GR-10045,Greg Ross,Corporate,Arizona City,Arizona,71473,West
+GR-13300,Grace Roberts,Consumer,Philadelphia,Pennsylvania,24066,East
+GR-14605,Grace Ross,Home Office,Rochester,New York,58580,East
+GS-11620,Grace Scott,Corporate,Arizona City,Arizona,22478,West
+GS-11740,Grace Shaw,Home Office,Iowa City,Iowa,94282,Central
+GS-16015,Greg Scott,Corporate,Arizona City,Arizona,41879,West
+GS-20515,Greg Smith,Consumer,San Francisco,California,61683,West
+GT-17455,Greg Taylor,Consumer,Houston,Texas,60665,Central
+GW-15055,Grace White,Corporate,Austin,Texas,67590,Central
+GW-18775,Grace Wood,Consumer,Pittsburgh,Pennsylvania,12131,East
+GY-12835,Grace Young,Consumer,San Diego,California,20080,West
+GY-19885,Greg Young,Consumer,Buffalo,New York,73829,East
+HA-18940,Hannah Adams,Corporate,Oregon City,Oregon,74750,West
+HA-20110,Helen Adams,Corporate,Pittsburgh,Pennsylvania,20716,East
+HC-10645,Helen Collins,Corporate,Kentucky City,Kentucky,20972,South
+HC-12340,Hannah Collins,Consumer,Rochester,New York,37266,East
+HC-14755,Hannah Clark,Home Office,Los Angeles,California,21929,West
+HD-11980,Helen Davis,Consumer,San Antonio,Texas,69090,Central
+HG-12310,Helen Gray,Consumer,New Mexico City,New Mexico,73636,West
+HG-13120,Hannah Garcia,Corporate,Buffalo,New York,41397,East
+HG-16750,Hannah Gray,Consumer,Pittsburgh,Pennsylvania,39336,East
+HH-10930,Helen Harris,Consumer,Pittsburgh,Pennsylvania,57826,East
+HH-11080,Helen Hall,Consumer,Dallas,Texas,50473,Central
+HJ-18985,Helen Jackson,Corporate,Seattle,Washington,14203,West
+HK-11365,Helen Kelly,Home Office,Maine City,Maine,55384,East
+HM-15895,Helen Martin,Corporate,Rochester,New York,67633,East
+HM-19915,Helen Moore,Consumer,New York City,New York,41512,East
+HP-16525,Hannah Patel,Consumer,Louisiana City,Louisiana,18415,South
+HP-21475,Helen Patel,Consumer,San Francisco,California,57244,West
+HR-12460,Hannah Ross,Consumer,Alabama City,Alabama,72135,South
+HR-18670,Hannah Reed,Corporate,Virginia City,Virginia,96703,South
+HR-20365,Helen Reed,Consumer,New York City,New York,16056,East
+HS-10420,Hannah Stewart,Consumer,Indiana City,Indiana,83490,Central
+HS-10630,Hannah Shaw,Consumer,Tennessee City,Tennessee,22593,South
+HS-14710,Helen Smith,Home Office,Austin,Texas,86336,Central
+HS-14845,Hannah Scott,Consumer,Pittsburgh,Pennsylvania,53129,East
+HS-18760,Helen Scott,Consumer,Los Angeles,California,94270,West
+HT-14305,Helen Turner,Corporate,Columbus,Ohio,20633,East
+HW-21550,Helen Walker,Corporate,Tennessee City,Tennessee,75656,South
+IB-13975,Ian Brooks,Home Office,Indiana City,Indiana,40723,Central
+IC-11560,Ian Carter,Consumer,Georgia City,Georgia,52550,South
+IC-17590,Ian Clark,Consumer,Buffalo,New York,60833,East
+IJ-13960,Ian Jackson,Consumer,Dallas,Texas,35667,Central
+IK-19510,Ian King,Home Office,Wisconsin City,Wisconsin,79424,Central
+IM-16990,Ian Morgan,Consumer,Columbus,Ohio,71286,East
+IP-13825,Ian Patel,Corporate,Oklahoma City,Oklahoma,77590,Central
+IP-15805,Ian Price,Consumer,New York City,New York,66616,East
+IR-11455,Ian Roberts,Home Office,Arizona City,Arizona,19035,West
+IS-12610,Ian Shaw,Consumer,Spokane,Washington,30766,West
+IS-14395,Ian Stewart,Corporate,San Antonio,Texas,73899,Central
+IS-17710,Ian Scott,Corporate,San Francisco,California,86648,West
+IT-20200,Ian Turner,Consumer,Georgia City,Georgia,74770,South
+IT-21145,Ian Taylor,Consumer,Buffalo,New York,16363,East
+IW-11305,Ian Ward,Corporate,San Diego,California,42258,West
+IW-11815,Ian White,Consumer,Tampa,Florida,65543,South
+IW-14050,Ian Walker,Corporate,Colorado City,Colorado,10243,West
+IW-21490,Ian Wood,Consumer,Michigan City,Michigan,83392,Central
+JA-15040,James Adams,Consumer,New Hampshire City,New Hampshire,78543,East
+JA-19360,Jane Adams,Consumer,Louisiana City,Louisiana,68909,South
+JA-21520,Jason Adams,Corporate,Massachusetts City,Massachusetts,73213,East
+JB-11380,Jason Brooks,Consumer,Tennessee City,Tennessee,40552,South
+JB-14410,Jill Brooks,Consumer,Massachusetts City,Massachusetts,28521,East
+JB-15835,James Brooks,Home Office,Arkansas City,Arkansas,99138,South
+JB-16090,Jane Baker,Consumer,Los Angeles,California,45882,West
+JB-17050,James Baker,Corporate,Chicago,Illinois,38749,Central
+JB-21655,Jill Baker,Home Office,Oregon City,Oregon,27354,West
+JC-11605,Jack Collins,Consumer,San Antonio,Texas,89860,Central
+JC-13015,Jane Cook,Corporate,Pittsburgh,Pennsylvania,47291,East
+JC-13075,James Clark,Consumer,Rochester,New York,23617,East
+JC-13210,Jill Clark,Corporate,Arkansas City,Arkansas,13266,South
+JC-13330,Jane Collins,Corporate,Buffalo,New York,50115,East
+JC-14515,Jill Cook,Consumer,Jacksonville,Florida,16393,South
+JC-14530,James Carter,Home Office,Springfield,Illinois,11027,Central
+JC-14935,Jason Collins,Corporate,New York City,New York,39624,East
+JC-16045,Jason Cook,Consumer,San Diego,California,17093,West
+JC-17485,John Collins,Corporate,Buffalo,New York,68395,East
+JC-19195,Julia Collins,Consumer,Tampa,Florida,38084,South
+JC-19720,Jane Clark,Consumer,Kentucky City,Kentucky,92485,South
+JD-10870,Jason Davis,Home Office,San Francisco,California,85266,West
+JD-15565,John Davis,Corporate,Los Angeles,California,24170,West
+JD-18145,James Davis,Corporate,San Diego,California,40799,West
+JE-17605,Jack Evans,Consumer,San Diego,California,83967,West
+JF-11935,Jill Fisher,Home Office,Los Angeles,California,12794,West
+JF-12280,Julia Fisher,Consumer,Chicago,Illinois,21803,Central
+JF-13030,Jane Foster,Corporate,Philadelphia,Pennsylvania,45466,East
+JF-13795,Julia Foster,Home Office,Dallas,Texas,39319,Central
+JF-17320,Jack Foster,Consumer,South Carolina City,South Carolina,82898,South
+JF-21415,James Fisher,Consumer,Houston,Texas,16591,Central
+JG-11320,Julia Garcia,Home Office,Los Angeles,California,98516,West
+JG-20875,John Garcia,Consumer,Massachusetts City,Massachusetts,97850,East
+JH-10015,John Hughes,Corporate,Seattle,Washington,93407,West
+JH-11410,Jason Hall,Home Office,Tampa,Florida,19470,South
+JH-13135,James Hill,Consumer,San Diego,California,54513,West
+JH-15160,Julia Hughes,Consumer,Pittsburgh,Pennsylvania,98097,East
+JH-18625,Jane Hall,Consumer,San Francisco,California,98522,West
+JJ-12370,Jill Jackson,Corporate,Delaware City,Delaware,67826,East
+JJ-19930,Jason Jackson,Home Office,Wisconsin City,Wisconsin,75737,Central
+JJ-20950,John Jackson,Home Office,Vermont City,Vermont,19185,East
+JK-13630,Jack King,Consumer,Chicago,Illinois,99789,Central
+JK-19750,Jason King,Home Office,San Francisco,California,81884,West
+JL-10300,James Lee,Corporate,New Hampshire City,New Hampshire,38433,East
+JL-10795,Jason Lee,Corporate,Seattle,Washington,61520,West
+JL-12055,John Lee,Corporate,San Antonio,Texas,24705,Central
+JM-10090,John Morgan,Consumer,Nevada City,Nevada,32093,West
+JM-13945,Jack Miller,Home Office,Seattle,Washington,72068,West
+JM-14035,John Martin,Consumer,Wisconsin City,Wisconsin,70081,Central
+JM-14320,Jane Moore,Corporate,Los Angeles,California,64342,West
+JM-15970,Jason Miller,Corporate,North Carolina City,North Carolina,12011,South
+JM-16195,Jane Miller,Home Office,San Antonio,Texas,80470,Central
+JM-16435,James Martin,Consumer,Arizona City,Arizona,11748,West
+JM-16615,Jason Martin,Corporate,San Diego,California,47696,West
+JM-19150,John Miller,Home Office,Virginia City,Virginia,88571,South
+JM-20020,John Moore,Consumer,New Hampshire City,New Hampshire,79576,East
+JM-21040,James Moore,Corporate,New York City,New York,99232,East
+JN-10510,Jane Nelson,Consumer,Nebraska City,Nebraska,30931,Central
+JN-14950,Jack Nelson,Consumer,North Carolina City,North Carolina,10911,South
+JN-15640,James Nelson,Consumer,Seattle,Washington,82385,West
+JN-18640,Jill Nelson,Consumer,Rochester,New York,76380,East
+JP-10075,James Patel,Consumer,Utah City,Utah,22577,West
+JP-10780,John Parker,Corporate,West Virginia City,West Virginia,48510,East
+JP-13870,Jane Parker,Consumer,Spokane,Washington,69944,West
+JP-14230,Jane Price,Consumer,New York City,New York,77300,East
+JP-15520,John Price,Consumer,Indiana City,Indiana,83602,Central
+JP-16510,Jill Price,Consumer,Maryland City,Maryland,23407,East
+JP-17995,Jason Parker,Consumer,Seattle,Washington,50631,West
+JP-19120,Jill Patel,Consumer,Spokane,Washington,76301,West
+JP-19270,James Parker,Corporate,Rochester,New York,72538,East
+JP-19630,Jason Patel,Consumer,San Diego,California,99658,West
+JR-11440,Julia Ross,Consumer,Colorado City,Colorado,85167,West
+JR-12160,Jane Roberts,Corporate,North Carolina City,North Carolina,50146,South
+JR-13150,Jack Roberts,Consumer,Louisiana City,Louisiana,57407,South
+JR-15400,Jill Reed,Consumer,Vermont City,Vermont,13501,East
+JR-15490,John Ross,Corporate,Pittsburgh,Pennsylvania,66796,East
+JR-20275,James Reed,Consumer,Seattle,Washington,68666,West
+JR-20830,Julia Reed,Corporate,San Diego,California,53013,West
+JR-21295,Jane Reed,Corporate,San Francisco,California,72385,West
+JS-10480,Jack Smith,Home Office,Oklahoma City,Oklahoma,91237,Central
+JS-12895,Julia Smith,Consumer,Houston,Texas,19251,Central
+JS-15910,John Scott,Consumer,San Diego,California,93217,West
+JS-17185,Jason Shaw,Consumer,San Antonio,Texas,72201,Central
+JS-20545,Jane Scott,Consumer,New York City,New York,60262,East
+JS-21685,Jack Shaw,Consumer,West Virginia City,West Virginia,72865,East
+JT-10240,Jill Taylor,Consumer,Delaware City,Delaware,49501,East
+JT-18475,Jane Taylor,Corporate,Cleveland,Ohio,94229,East
+JT-21175,James Taylor,Home Office,Arizona City,Arizona,63027,West
+JW-11095,Jack Walker,Corporate,Cleveland,Ohio,29406,East
+JW-11665,Jill White,Corporate,Springfield,Illinois,30985,Central
+JW-11755,Jack Ward,Corporate,Los Angeles,California,35251,West
+JW-12100,Julia Walker,Home Office,San Francisco,California,94227,West
+JW-12250,Jill Walker,Home Office,Pittsburgh,Pennsylvania,15429,East
+JW-14725,Jack Wood,Consumer,Maryland City,Maryland,81157,East
+JW-16135,Jill Ward,Consumer,Jacksonville,Florida,90542,South
+JW-18115,Jane Ward,Corporate,Massachusetts City,Massachusetts,16001,East
+JW-21385,John Wood,Home Office,San Francisco,California,65692,West
+KA-14260,Karen Adams,Corporate,Los Angeles,California,18420,West
+KB-15595,Kevin Baker,Consumer,Chicago,Illinois,59047,Central
+KB-15745,Karen Brooks,Corporate,New Jersey City,New Jersey,28661,East
+KC-16105,Karen Collins,Home Office,San Antonio,Texas,94029,Central
+KC-16900,Karen Carter,Corporate,San Diego,California,49885,West
+KC-21430,Kevin Carter,Consumer,San Diego,California,16464,West
+KE-16360,Kevin Evans,Consumer,San Diego,California,69035,West
+KF-12325,Karen Fisher,Consumer,Minnesota City,Minnesota,50341,Central
+KG-18655,Karen Garcia,Corporate,Rochester,New York,71085,East
+KG-20065,Karen Gray,Home Office,San Diego,California,88409,West
+KH-14875,Karen Harris,Corporate,New York City,New York,22759,East
+KJ-15730,Karen Jackson,Consumer,Nevada City,Nevada,92864,West
+KL-11350,Kevin Lee,Consumer,Kentucky City,Kentucky,12082,South
+KM-11965,Kevin Miller,Corporate,Los Angeles,California,97162,West
+KM-21010,Karen Morgan,Home Office,New York City,New York,12782,East
+KR-10720,Karen Ross,Corporate,South Carolina City,South Carolina,17742,South
+KR-11140,Kevin Ross,Consumer,Los Angeles,California,61492,West
+KR-20605,Karen Reed,Consumer,Pittsburgh,Pennsylvania,84355,East
+KS-16780,Karen Smith,Consumer,San Diego,California,21200,West
+KS-16975,Kevin Scott,Consumer,New York City,New York,28785,East
+KT-15265,Kevin Turner,Consumer,Jacksonville,Florida,95614,South
+KW-12220,Karen Walker,Consumer,Georgia City,Georgia,25198,South
+KW-15205,Karen Ward,Corporate,Dallas,Texas,56288,Central
+KW-15460,Karen White,Corporate,Virginia City,Virginia,69399,South
+LA-11110,Liam Adams,Corporate,New Jersey City,New Jersey,35491,East
+LA-17515,Laura Adams,Home Office,Dallas,Texas,14886,Central
+LB-17215,Laura Baker,Consumer,San Antonio,Texas,66398,Central
+LC-10195,Laura Cook,Corporate,Cleveland,Ohio,66586,East
+LC-10555,Laura Carter,Home Office,North Dakota City,North Dakota,75106,Central
+LC-11845,Liam Cook,Corporate,Arizona City,Arizona,44682,West
+LC-18835,Linda Carter,Home Office,Buffalo,New York,33505,East
+LD-10435,Liam Davis,Consumer,Wisconsin City,Wisconsin,61966,Central
+LE-12070,Laura Evans,Home Office,New York City,New York,18712,East
+LE-15985,Linda Evans,Corporate,Rhode Island City,Rhode Island,39088,East
+LF-15010,Linda Foster,Consumer,Houston,Texas,80810,Central
+LF-17365,Linda Fisher,Consumer,Philadelphia,Pennsylvania,23455,East
+LF-21535,Laura Foster,Corporate,Michigan City,Michigan,36732,Central
+LF-21670,Liam Fisher,Consumer,Buffalo,New York,40184,East
+LG-20770,Laura Gray,Corporate,San Diego,California,42713,West
+LH-12430,Laura Hughes,Consumer,Nebraska City,Nebraska,70892,Central
+LH-18085,Liam Harris,Home Office,Springfield,Illinois,74503,Central
+LH-19735,Liam Hill,Corporate,West Virginia City,West Virginia,18856,East
+LJ-20470,Liam Jackson,Consumer,Austin,Texas,77961,Central
+LK-14290,Linda King,Home Office,Sacramento,California,53397,West
+LK-15955,Liam Kelly,Consumer,Los Angeles,California,12616,West
+LK-18535,Laura King,Home Office,San Diego,California,58612,West
+LK-19990,Laura Kelly,Consumer,Cleveland,Ohio,40046,East
+LL-20245,Linda Lewis,Consumer,New York City,New York,31143,East
+LM-16675,Laura Morgan,Corporate,Houston,Texas,95144,Central
+LM-17905,Linda Miller,Consumer,Los Angeles,California,68134,West
+LM-18610,Liam Miller,Consumer,Dallas,Texas,31506,Central
+LP-12205,Linda Parker,Corporate,Rochester,New York,21128,East
+LP-14485,Laura Parker,Corporate,New York City,New York,93184,East
+LP-15475,Laura Patel,Home Office,Los Angeles,California,82424,West
+LP-19975,Laura Price,Home Office,Chicago,Illinois,77475,Central
+LR-11035,Linda Reed,Consumer,Austin,Texas,47349,Central
+LR-11950,Liam Ross,Consumer,Buffalo,New York,97236,East
+LR-19495,Linda Ross,Consumer,San Francisco,California,53111,West
+LS-14425,Linda Stewart,Home Office,Spokane,Washington,77759,West
+LS-15115,Laura Smith,Consumer,Springfield,Illinois,78246,Central
+LS-16210,Liam Smith,Consumer,New York City,New York,23484,East
+LS-16315,Liam Stewart,Corporate,Massachusetts City,Massachusetts,71200,East
+LS-16405,Liam Shaw,Consumer,Seattle,Washington,19520,West
+LT-11470,Laura Turner,Consumer,Buffalo,New York,57776,East
+LT-12505,Linda Taylor,Consumer,Jacksonville,Florida,30489,South
+LT-18235,Laura Taylor,Consumer,San Francisco,California,67815,West
+LW-10945,Linda Ward,Corporate,Philadelphia,Pennsylvania,37677,East
+LY-12355,Linda Young,Home Office,Dallas,Texas,90079,Central
+MA-17035,Megan Adams,Consumer,Rochester,New York,72170,East
+MB-14785,Matt Baker,Consumer,Wisconsin City,Wisconsin,82884,Central
+MB-16450,Mark Brooks,Consumer,Chicago,Illinois,23558,Central
+MB-20920,Mark Baker,Consumer,Sacramento,California,43026,West
+MC-10135,Matt Clark,Corporate,Montana City,Montana,18104,West
+MC-11590,Mark Cook,Home Office,Cleveland,Ohio,39738,East
+MC-13810,Matt Collins,Corporate,Cleveland,Ohio,39080,East
+MC-15025,Matt Carter,Home Office,Tampa,Florida,93185,South
+MC-16810,Matt Cook,Consumer,San Francisco,California,21914,West
+MD-21805,Maria Davis,Corporate,Buffalo,New York,95386,East
+ME-19375,Matt Evans,Home Office,Maryland City,Maryland,43667,East
+MF-20890,Maria Fisher,Consumer,Austin,Texas,92756,Central
+MG-13615,Maria Garcia,Corporate,Oklahoma City,Oklahoma,78160,Central
+MG-17125,Maria Gray,Corporate,Sacramento,California,89053,West
+MH-10615,Matt Hall,Consumer,Georgia City,Georgia,24184,South
+MH-17290,Maria Harris,Consumer,West Virginia City,West Virginia,67150,East
+MH-19765,Mark Hall,Consumer,Houston,Texas,84885,Central
+MJ-19225,Mark Jackson,Corporate,Los Angeles,California,98674,West
+MK-14995,Mark Kelly,Consumer,Oregon City,Oregon,56430,West
+MK-15670,Maria Kelly,Consumer,Los Angeles,California,95762,West
+MK-18505,Maria King,Consumer,Chicago,Illinois,28423,Central
+MK-21445,Megan King,Corporate,Austin,Texas,35526,Central
+ML-10165,Maria Lee,Home Office,New York City,New York,33716,East
+ML-17155,Matt Lee,Consumer,Rochester,New York,29449,East
+MM-10975,Mark Moore,Home Office,Dallas,Texas,97282,Central
+MM-12535,Matt Martin,Consumer,Maryland City,Maryland,84890,East
+MM-12940,Maria Morgan,Consumer,San Diego,California,76578,West
+MM-16735,Mark Martin,Corporate,Spokane,Washington,94474,West
+MM-18070,Megan Martin,Consumer,Tampa,Florida,39338,South
+MM-19570,Mark Morgan,Consumer,Indiana City,Indiana,54085,Central
+MM-21055,Maria Martin,Consumer,Louisiana City,Louisiana,81924,South
+MN-14155,Maria Nelson,Consumer,Seattle,Washington,61430,West
+MP-18595,Maria Patel,Corporate,Nebraska City,Nebraska,66450,Central
+MR-11245,Mark Roberts,Consumer,Dallas,Texas,76471,Central
+MR-18400,Maria Reed,Consumer,New Jersey City,New Jersey,78424,East
+MR-21265,Megan Reed,Corporate,Spokane,Washington,59054,West
+MS-10390,Maria Shaw,Consumer,Springfield,Illinois,11605,Central
+MS-18010,Matt Smith,Home Office,Buffalo,New York,43877,East
+MT-11650,Megan Taylor,Corporate,Rochester,New York,73418,East
+MT-21250,Maria Turner,Consumer,Philadelphia,Pennsylvania,77334,East
+MW-10525,Matt Ward,Consumer,Kansas City,Kansas,79325,Central
+MW-10705,Mark Wood,Corporate,Arkansas City,Arkansas,93500,South
+MW-11125,Matt Walker,Consumer,Michigan City,Michigan,25407,Central
+MW-12175,Matt White,Consumer,Kentucky City,Kentucky,60669,South
+MW-12400,Maria White,Corporate,New York City,New York,85070,East
+MW-13315,Mark White,Consumer,Montana City,Montana,71451,West
+NA-16705,Noah Adams,Home Office,Dallas,Texas,67917,Central
+NB-15760,Nina Baker,Consumer,Philadelphia,Pennsylvania,33719,East
+NB-20845,Noah Baker,Consumer,San Francisco,California,21247,West
+NC-19795,Noah Clark,Corporate,Chicago,Illinois,31711,Central
+NE-11065,Noah Evans,Corporate,Austin,Texas,15426,Central
+NF-16375,Nina Foster,Corporate,Massachusetts City,Massachusetts,90261,East
+NG-18175,Nina Garcia,Corporate,Spokane,Washington,84164,West
+NH-14665,Noah Hall,Corporate,Austin,Texas,60326,Central
+NH-15850,Noah Harris,Consumer,San Diego,California,74448,West
+NH-18820,Noah Hughes,Consumer,Massachusetts City,Massachusetts,22564,East
+NH-20620,Nina Hill,Consumer,Sacramento,California,96001,West
+NJ-12115,Nina Jackson,Home Office,Pittsburgh,Pennsylvania,15680,East
+NK-10600,Noah Kelly,Corporate,North Carolina City,North Carolina,28743,South
+NK-20575,Noah King,Consumer,Dallas,Texas,93782,Central
+NL-10900,Noah Lewis,Home Office,San Francisco,California,31929,West
+NM-10270,Noah Moore,Home Office,Maryland City,Maryland,43382,East
+NM-13900,Nina Moore,Consumer,New York City,New York,35969,East
+NM-14170,Noah Martin,Consumer,New Hampshire City,New Hampshire,35427,East
+NN-16180,Nina Nelson,Consumer,Sacramento,California,60098,West
+NR-16960,Nina Ross,Consumer,Los Angeles,California,71608,West
+NR-20425,Noah Roberts,Consumer,Los Angeles,California,86769,West
+NS-15940,Nina Scott,Consumer,Maryland City,Maryland,24539,East
+NS-17500,Nina Stewart,Consumer,San Diego,California,25695,West
+NS-18580,Noah Smith,Home Office,Jacksonville,Florida,14134,South
+NT-13660,Noah Taylor,Corporate,Miami,Florida,39789,South
+NT-15430,Noah Turner,Corporate,Springfield,Illinois,99301,Central
+NW-13690,Noah Ward,Consumer,Cleveland,Ohio,95022,East
+OA-18250,Olivia Adams,Home Office,San Francisco,California,70027,West
+OC-13465,Olivia Carter,Home Office,Oregon City,Oregon,39826,West
+OC-17530,Olivia Collins,Home Office,Houston,Texas,89231,Central
+OC-17830,Olivia Cook,Corporate,Massachusetts City,Massachusetts,55550,East
+OH-13585,Olivia Hall,Corporate,Buffalo,New York,93874,East
+OH-18385,Olivia Harris,Corporate,Los Angeles,California,19193,West
+OM-10915,Olivia Miller,Consumer,Rochester,New York,86002,East
+OM-16480,Olivia Morgan,Home Office,Delaware City,Delaware,44549,East
+OP-20935,Olivia Parker,Home Office,New York City,New York,43401,East
+OR-11575,Olivia Ross,Corporate,Louisiana City,Louisiana,77585,South
+OR-19165,Olivia Reed,Home Office,Michigan City,Michigan,19214,Central
+OR-21355,Olivia Roberts,Consumer,San Diego,California,42373,West
+OS-19855,Olivia Scott,Consumer,Dallas,Texas,81306,Central
+OT-15415,Olivia Turner,Corporate,Seattle,Washington,61664,West
+OW-13855,Olivia Ward,Home Office,San Francisco,California,46616,West
+OW-20995,Olivia Wood,Consumer,Kansas City,Kansas,14403,Central
+PA-18025,Paul Adams,Corporate,Vermont City,Vermont,63858,East
+PC-15250,Paul Collins,Consumer,Michigan City,Michigan,53578,Central
+PC-18415,Peter Carter,Corporate,San Antonio,Texas,74487,Central
+PF-12685,Paul Fisher,Consumer,San Antonio,Texas,91880,Central
+PF-17230,Peter Fisher,Consumer,Idaho City,Idaho,32041,West
+PF-18340,Paul Foster,Home Office,Springfield,Illinois,83966,Central
+PG-12670,Peter Garcia,Home Office,Sacramento,California,32171,West
+PG-16555,Paul Gray,Home Office,Cleveland,Ohio,57242,East
+PG-17470,Peter Gray,Consumer,Houston,Texas,17916,Central
+PH-11185,Peter Harris,Home Office,New York City,New York,53436,East
+PH-11680,Paul Hill,Corporate,Seattle,Washington,36163,West
+PH-11800,Paul Harris,Home Office,Los Angeles,California,15501,West
+PH-12880,Peter Hill,Consumer,Spokane,Washington,14136,West
+PH-17170,Peter Hughes,Consumer,Springfield,Illinois,66849,Central
+PH-21835,Paul Hughes,Home Office,Los Angeles,California,96216,West
+PK-15235,Paul Kelly,Consumer,Chicago,Illinois,14087,Central
+PK-21565,Peter Kelly,Home Office,Pittsburgh,Pennsylvania,17514,East
+PM-14815,Paul Morgan,Consumer,Minnesota City,Minnesota,73369,Central
+PM-19825,Paul Miller,Consumer,Georgia City,Georgia,86849,South
+PN-10405,Paul Nelson,Consumer,Michigan City,Michigan,20700,Central
+PP-11860,Peter Patel,Consumer,Sacramento,California,90122,West
+PP-13405,Paul Patel,Consumer,New York City,New York,26929,East
+PR-10180,Peter Reed,Consumer,Philadelphia,Pennsylvania,82778,East
+PR-16825,Peter Ross,Corporate,Pittsburgh,Pennsylvania,32010,East
+PS-14455,Paul Scott,Consumer,Sacramento,California,49219,West
+PS-18745,Peter Stewart,Consumer,Cleveland,Ohio,84442,East
+PS-19180,Paul Stewart,Corporate,Buffalo,New York,92795,East
+PS-20095,Peter Smith,Corporate,Kansas City,Kansas,57451,Central
+PW-14095,Paul Ward,Consumer,San Diego,California,38418,West
+PW-16600,Peter Ward,Corporate,Springfield,Illinois,14256,Central
+PW-17020,Peter Walker,Consumer,Rhode Island City,Rhode Island,13652,East
+PW-17425,Paul White,Corporate,Columbus,Ohio,60394,East
+PW-20440,Peter Wood,Consumer,Dallas,Texas,43708,Central
+PY-14650,Peter Young,Consumer,Tennessee City,Tennessee,14926,South
+RA-20680,Ryan Adams,Corporate,Tennessee City,Tennessee,91539,South
+RC-12295,Rachel Cook,Corporate,San Francisco,California,36219,West
+RC-16945,Rachel Carter,Consumer,Buffalo,New York,17372,East
+RD-19030,Rachel Davis,Consumer,Spokane,Washington,38245,West
+RE-10690,Ryan Evans,Home Office,Louisiana City,Louisiana,36001,South
+RF-20215,Ryan Foster,Consumer,Arkansas City,Arkansas,35597,South
+RG-14590,Ryan Garcia,Consumer,Arizona City,Arizona,92664,West
+RH-14770,Rachel Hall,Consumer,Sacramento,California,60059,West
+RH-21880,Ryan Hill,Home Office,Philadelphia,Pennsylvania,24126,East
+RK-12550,Rachel King,Home Office,Springfield,Illinois,24107,Central
+RK-12820,Rachel Kelly,Consumer,Chicago,Illinois,48166,Central
+RK-15085,Ryan King,Consumer,Pittsburgh,Pennsylvania,59709,East
+RL-14890,Rachel Lewis,Consumer,San Francisco,California,50557,West
+RL-20290,Rachel Lee,Consumer,Miami,Florida,37413,South
+RM-19840,Rachel Morgan,Home Office,Los Angeles,California,43096,West
+RN-20740,Ryan Nelson,Consumer,Philadelphia,Pennsylvania,67437,East
+RP-16120,Ryan Patel,Consumer,Los Angeles,California,95296,West
+RS-14365,Rachel Smith,Consumer,Buffalo,New York,57195,East
+RT-12025,Rachel Taylor,Home Office,Sacramento,California,63483,West
+RT-12595,Ryan Turner,Home Office,Sacramento,California,45678,West
+RW-13000,Rachel White,Home Office,Houston,Texas,20430,Central
+RW-14020,Rachel Wood,Consumer,Seattle,Washington,32470,West
+RW-16915,Ryan Ward,Consumer,Massachusetts City,Massachusetts,66941,East
+RW-19405,Rachel Walker,Consumer,Spokane,Washington,15853,West
+RY-18205,Rachel Young,Home Office,Oregon City,Oregon,72642,West
+SB-11500,Sean Baker,Consumer,Los Angeles,California,92515,West
+SB-17770,Steve Baker,Home Office,Los Angeles,California,53325,West
+SB-18730,Sam Brooks,Consumer,San Francisco,California,92352,West
+SB-21085,Sara Baker,Consumer,New York City,New York,95964,East
+SC-10855,Sara Carter,Consumer,Michigan City,Michigan,99590,Central
+SC-12385,Sam Collins,Corporate,Arizona City,Arizona,46149,West
+SC-13450,Sam Carter,Consumer,New York City,New York,26263,East
+SC-15370,Steve Clark,Corporate,Buffalo,New York,76531,East
+SC-16345,Steve Collins,Consumer,San Diego,California,61168,West
+SC-16630,Sean Cook,Home Office,Arizona City,Arizona,41996,West
+SC-19135,Sean Carter,Home Office,New York City,New York,34141,East
+SC-20455,Sara Cook,Corporate,Sacramento,California,97546,West
+SD-12640,Sam Davis,Consumer,Seattle,Washington,18100,West
+SD-15145,Sara Davis,Corporate,Massachusetts City,Massachusetts,57510,East
+SD-19540,Sean Davis,Consumer,Alabama City,Alabama,20045,South
+SD-20155,Steve Davis,Home Office,Chicago,Illinois,29904,Central
+SE-16690,Sara Evans,Consumer,Spokane,Washington,97392,West
+SE-16870,Steve Evans,Corporate,Arizona City,Arizona,58875,West
+SF-12145,Sara Fisher,Consumer,Austin,Texas,51098,Central
+SF-14215,Sophia Foster,Consumer,Los Angeles,California,79074,West
+SF-15880,Steve Fisher,Home Office,San Francisco,California,38338,West
+SF-17410,Sam Fisher,Consumer,San Francisco,California,61795,West
+SG-10120,Sara Gray,Consumer,Idaho City,Idaho,49088,West
+SG-11290,Sam Garcia,Corporate,West Virginia City,West Virginia,57272,East
+SG-16255,Steve Gray,Consumer,Austin,Texas,10661,Central
+SG-16420,Sara Garcia,Consumer,San Antonio,Texas,59234,Central
+SH-10330,Sam Harris,Consumer,Maine City,Maine,97463,East
+SH-12985,Sean Harris,Corporate,San Francisco,California,52777,West
+SH-14545,Steve Hall,Consumer,Springfield,Illinois,93689,Central
+SH-14905,Sam Hughes,Consumer,Los Angeles,California,50606,West
+SH-18445,Sophia Hall,Corporate,Buffalo,New York,68802,East
+SH-19660,Sophia Hughes,Consumer,Arizona City,Arizona,51062,West
+SH-20485,Sophia Harris,Consumer,North Carolina City,North Carolina,66601,South
+SH-21370,Steve Hughes,Consumer,Dallas,Texas,62566,Central
+SJ-19780,Sam Jackson,Consumer,Massachusetts City,Massachusetts,55169,East
+SK-12040,Steve Kelly,Consumer,New York City,New York,47585,East
+SK-13045,Sara Kelly,Home Office,Los Angeles,California,80453,West
+SK-16030,Sean Kelly,Consumer,Sacramento,California,82511,West
+SK-18265,Steve King,Corporate,Sacramento,California,58858,West
+SK-20695,Sam King,Consumer,Jacksonville,Florida,28836,South
+SL-10960,Sophia Lewis,Corporate,Springfield,Illinois,91298,Central
+SL-17110,Sean Lee,Corporate,Arizona City,Arizona,49789,West
+SL-18490,Sam Lee,Consumer,San Diego,California,64628,West
+SM-11230,Sara Moore,Consumer,Vermont City,Vermont,81928,East
+SM-11785,Sean Morgan,Consumer,Chicago,Illinois,58490,Central
+SM-13645,Sara Morgan,Corporate,Maryland City,Maryland,65927,East
+SM-16060,Sara Martin,Consumer,Oregon City,Oregon,52696,West
+SM-17005,Steve Moore,Corporate,Chicago,Illinois,34718,Central
+SM-17335,Sam Moore,Corporate,Massachusetts City,Massachusetts,34721,East
+SM-19645,Sophia Miller,Home Office,New York City,New York,82268,East
+SM-20785,Steve Miller,Corporate,North Carolina City,North Carolina,55259,South
+SN-11695,Sean Nelson,Home Office,New York City,New York,35782,East
+SN-16270,Steve Nelson,Consumer,San Francisco,California,15874,West
+SP-12085,Sophia Parker,Consumer,New York City,New York,48796,East
+SP-14500,Sam Patel,Corporate,Michigan City,Michigan,87843,Central
+SP-18910,Sara Patel,Consumer,Maine City,Maine,97276,East
+SP-20590,Steve Parker,Consumer,Sacramento,California,75446,West
+SR-10735,Sara Ross,Corporate,San Diego,California,10394,West
+SR-12715,Sam Ross,Corporate,Spokane,Washington,84676,West
+SR-21460,Sophia Roberts,Corporate,Oregon City,Oregon,22771,West
+SS-13510,Sean Scott,Consumer,Indiana City,Indiana,48361,Central
+SS-16840,Sophia Shaw,Consumer,Kentucky City,Kentucky,78714,South
+SS-17785,Sophia Stewart,Corporate,New Hampshire City,New Hampshire,12719,East
+SS-17800,Steve Shaw,Corporate,San Francisco,California,31418,West
+SS-19060,Sam Stewart,Corporate,Los Angeles,California,69669,West
+SS-21160,Sam Shaw,Home Office,Minnesota City,Minnesota,51205,Central
+SS-21190,Sara Stewart,Consumer,Georgia City,Georgia,41629,South
+ST-11050,Sara Turner,Consumer,Los Angeles,California,50485,West
+ST-13735,Sam Turner,Consumer,Buffalo,New York,32870,East
+ST-17635,Sophia Turner,Consumer,North Carolina City,North Carolina,52653,South
+ST-18355,Sophia Taylor,Consumer,Columbus,Ohio,42824,East
+SW-11905,Sophia Wood,Corporate,Minnesota City,Minnesota,77883,Central
+SW-13495,Sean White,Consumer,Chicago,Illinois,99143,Central
+SW-16540,Steve Walker,Home Office,Oklahoma City,Oklahoma,31404,Central
+SW-16795,Sam Ward,Corporate,Philadelphia,Pennsylvania,17477,East
+SW-17140,Steve White,Corporate,New York City,New York,83340,East
+SW-19810,Sara Wood,Consumer,New Jersey City,New Jersey,27103,East
+SW-19900,Sam Walker,Corporate,Los Angeles,California,39227,West
+SW-21745,Sam Wood,Corporate,Houston,Texas,63304,Central
+SY-12010,Sara Young,Consumer,New Jersey City,New Jersey,43575,East
+SY-17815,Sam Young,Consumer,Philadelphia,Pennsylvania,49035,East
+TA-17395,Tracy Adams,Corporate,San Antonio,Texas,64554,Central
+TB-10675,Tom Baker,Corporate,Mississippi City,Mississippi,69910,South
+TB-20905,Tracy Baker,Home Office,Houston,Texas,91555,Central
+TC-11335,Tom Carter,Corporate,Springfield,Illinois,95476,Central
+TC-12700,Tom Collins,Corporate,San Antonio,Texas,70726,Central
+TC-17575,Tracy Cook,Consumer,San Francisco,California,27367,West
+TC-20170,Tom Cook,Consumer,Buffalo,New York,53662,East
+TD-11920,Tom Davis,Consumer,Kentucky City,Kentucky,57775,South
+TE-13720,Tom Evans,Home Office,Houston,Texas,54762,Central
+TE-21610,Tracy Evans,Consumer,Spokane,Washington,81863,West
+TG-16225,Tom Gray,Home Office,Tennessee City,Tennessee,49133,South
+TH-18460,Tracy Harris,Corporate,Arizona City,Arizona,23538,West
+TL-17890,Tracy Lee,Consumer,Oklahoma City,Oklahoma,34348,Central
+TM-12775,Tracy Martin,Home Office,Chicago,Illinois,86474,Central
+TM-21505,Tracy Miller,Consumer,New York City,New York,54472,East
+TN-17095,Tom Nelson,Consumer,Maine City,Maine,73108,East
+TP-13765,Tom Parker,Consumer,San Antonio,Texas,13175,Central
+TR-10345,Tom Reed,Corporate,District of Columbia City,District of Columbia,47532,East
+TR-14185,Tracy Ross,Corporate,Philadelphia,Pennsylvania,29799,East
+TR-19300,Tom Ross,Home Office,North Carolina City,North Carolina,54540,South
+TR-21205,Tracy Reed,Consumer,Los Angeles,California,18336,West
+TS-11545,Tom Smith,Corporate,Los Angeles,California,54705,West
+TS-14680,Tracy Scott,Consumer,Philadelphia,Pennsylvania,12360,East
+TT-14005,Tracy Turner,Consumer,San Antonio,Texas,57946,Central
+TW-11995,Tracy Ward,Corporate,San Diego,California,23592,West
+TW-15700,Tracy White,Consumer,Idaho City,Idaho,65806,West
+TW-21400,Tom Walker,Home Office,Kentucky City,Kentucky,58633,South
+VA-13780,Victor Adams,Consumer,Buffalo,New York,22404,East
+VC-17860,Victor Collins,Corporate,Georgia City,Georgia,68138,South
+VD-20230,Victor Davis,Consumer,Arizona City,Arizona,77110,West
+VF-10315,Victor Foster,Consumer,Vermont City,Vermont,16087,East
+VL-10990,Victor Lewis,Consumer,Alabama City,Alabama,39273,South
+VM-12730,Victor Miller,Corporate,Maine City,Maine,20800,East
+VM-20005,Victor Morgan,Corporate,San Antonio,Texas,67955,Central
+VN-17665,Victor Nelson,Corporate,New Mexico City,New Mexico,59933,West
+VP-18310,Victor Price,Consumer,North Carolina City,North Carolina,31428,South
+VR-15820,Victor Reed,Consumer,Dallas,Texas,63617,Central
+VS-21760,Victor Scott,Consumer,Columbus,Ohio,13054,East
+VW-17650,Victor Ward,Corporate,San Diego,California,78489,West
+VW-19615,Victor White,Corporate,Chicago,Illinois,95725,Central
+VW-19945,Victor Wood,Consumer,Seattle,Washington,19216,West
+VW-20665,Victor Walker,Home Office,Buffalo,New York,38746,East
+WA-13090,Wendy Adams,Home Office,Cleveland,Ohio,97654,East
+WB-18040,Wendy Brooks,Corporate,Buffalo,New York,25848,East
+WC-19105,Wendy Carter,Consumer,Dallas,Texas,39157,Central
+WF-18325,Wendy Foster,Corporate,New York City,New York,39975,East
+WG-13570,Wendy Garcia,Corporate,San Diego,California,21153,West
+WH-21025,Wendy Hall,Consumer,San Antonio,Texas,83779,Central
+WH-21070,Wendy Hughes,Consumer,Austin,Texas,57259,Central
+WK-11005,Wendy King,Consumer,Sacramento,California,95782,West
+WL-18955,Wendy Lee,Consumer,Louisiana City,Louisiana,47982,South
+WM-14965,Wendy Moore,Consumer,Georgia City,Georgia,22843,South
+WM-20260,Wendy Morgan,Home Office,Buffalo,New York,23259,East
+WR-19870,Wendy Roberts,Corporate,Louisiana City,Louisiana,73188,South
+WS-19210,Wendy Stewart,Home Office,Dallas,Texas,42869,Central
+WT-16390,Wendy Turner,Consumer,Columbus,Ohio,94623,East
+WY-15190,Wendy Young,Home Office,Los Angeles,California,86676,West
+ZB-14080,Zoe Baker,Home Office,Seattle,Washington,75160,West
+ZC-16720,Zoe Cook,Corporate,Nevada City,Nevada,87771,West
+ZC-18280,Zoe Collins,Corporate,Los Angeles,California,39709,West
+ZD-16930,Zoe Davis,Corporate,Arizona City,Arizona,49456,West
+ZG-21340,Zoe Garcia,Consumer,San Francisco,California,58774,West
+ZH-20335,Zoe Hill,Corporate,Delaware City,Delaware,50436,East
+ZK-11425,Zoe Kelly,Corporate,North Dakota City,North Dakota,18727,Central
+ZP-12565,Zoe Parker,Corporate,Colorado City,Colorado,88797,West
+ZS-12415,Zoe Smith,Home Office,Spokane,Washington,34858,West
+ZS-20965,Zoe Shaw,Corporate,Michigan City,Michigan,90689,Central
+ZW-13435,Zoe White,Consumer,Chicago,Illinois,52447,Central

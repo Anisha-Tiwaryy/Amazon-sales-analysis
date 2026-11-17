@@ -1,0 +1,36 @@
+territory,state,accounts,revenue,revenue_per_account,territory_rev_per_account,index_vs_territory
+South,Alabama,5,9764.0,1953.0,5519.0,35.0
+East,Delaware,6,11726.0,1954.0,4555.0,43.0
+Central,Iowa,5,10287.0,2057.0,4829.0,43.0
+South,Tennessee,6,19428.0,3238.0,5519.0,59.0
+East,West Virginia,7,19565.0,2795.0,4555.0,61.0
+East,Maine,6,20298.0,3383.0,4555.0,74.0
+East,New Hampshire,5,16973.0,3395.0,4555.0,75.0
+South,North Carolina,13,54094.0,4161.0,5519.0,75.0
+East,Maryland,8,28918.0,3615.0,4555.0,79.0
+West,Colorado,9,36012.0,4001.0,4662.0,86.0
+West,Arizona,20,81031.0,4052.0,4662.0,87.0
+East,New York,97,391318.0,4034.0,4555.0,89.0
+Central,Texas,87,381491.0,4385.0,4829.0,91.0
+South,Virginia,9,46080.0,5120.0,5519.0,93.0
+West,California,165,728024.0,4412.0,4662.0,95.0
+Central,Michigan,16,75682.0,4730.0,4829.0,98.0
+Central,North Dakota,5,23882.0,4776.0,4829.0,99.0
+South,Kentucky,12,67062.0,5589.0,5519.0,101.0
+West,Washington,48,224959.0,4687.0,4662.0,101.0
+South,Florida,22,123733.0,5624.0,5519.0,102.0
+East,Vermont,6,27960.0,4660.0,4555.0,102.0
+Central,Illinois,38,188528.0,4961.0,4829.0,103.0
+West,Nevada,5,24819.0,4964.0,4662.0,106.0
+Central,Oklahoma,5,25589.0,5118.0,4829.0,106.0
+East,Massachusetts,18,88393.0,4911.0,4555.0,108.0
+Central,Wisconsin,6,31671.0,5278.0,4829.0,109.0
+East,Pennsylvania,42,218806.0,5210.0,4555.0,114.0
+Central,Kansas,6,37301.0,6217.0,4829.0,129.0
+South,Georgia,16,115334.0,7208.0,5519.0,131.0
+East,Ohio,26,159412.0,6131.0,4555.0,135.0
+Central,Indiana,8,53995.0,6749.0,4829.0,140.0
+Central,Minnesota,5,34962.0,6992.0,4829.0,145.0
+South,Louisiana,9,75444.0,8383.0,5519.0,152.0
+East,New Jersey,7,63011.0,9002.0,4555.0,198.0
+West,Oregon,11,111083.0,10098.0,4662.0,217.0

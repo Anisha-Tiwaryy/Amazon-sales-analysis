@@ -1,0 +1,5 @@
+territory,call_window,best_shift,hours_in_east_coast_shift,hours_in_west_coast_shift
+East,10:00-17:00 ET = 20:30-03:30 IST,US West Coast (6:00 PM-4:00 AM IST),5.5,7.0
+South,10:00-17:00 ET = 20:30-03:30 IST,US West Coast (6:00 PM-4:00 AM IST),5.5,7.0
+Central,10:00-17:00 CT = 21:30-04:30 IST,US West Coast (6:00 PM-4:00 AM IST),4.5,6.5
+West,10:00-17:00 PT = 23:30-06:30 IST,US West Coast (6:00 PM-4:00 AM IST),2.5,4.5
